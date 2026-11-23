@@ -1,5 +1,5 @@
 
-# 💗 Portfólio Profissional — Sofia Vitória
+# 💗 Portfólio Profissional — Heitor Gonçalves Pereira
 
 Bem-vindo(a) ao meu portfólio!
 
@@ -67,4 +67,4 @@ Desenvolver conhecimentos em desenvolvimento web, versionamento de código, inte
 
 ---
 
-Desenvolvido por **Sofia Vitória** ♡
+Desenvolvido por **Heitor Gonçalves Pereira**
