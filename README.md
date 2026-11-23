@@ -7,7 +7,7 @@ Este projeto foi desenvolvido para apresentar minha trajetória, habilidades e p
 
 ## 🌐 Acesse o projeto
 
-[Visualizar meu portfólio](https://sfvitoriaa.github.io/esteira-prod/)
+[Visualizar meu portfólio](https://joaoreis579.github.io/esteira-heitor/)
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -49,11 +49,11 @@ Os processos são acionados quando alterações são enviadas para a branch `mai
 
 1. Clone o repositório:
 
-   `git clone https://github.com/sfvitoriaa/esteira-prod.git`
+   `git clone https://github.com/JoaoReis579/esteira-heitor.git`
 
 2. Entre na pasta:
 
-   `cd esteira-prod`
+   `cd esteira-heitor`
 
 3. Instale as dependências:
 
